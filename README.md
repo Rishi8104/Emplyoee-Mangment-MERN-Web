@@ -1,2 +1,1 @@
-# Emplyoee-Mangment-MERN-Web
- i Have Suceesfully Compleate  Emplyoee Managment  Website using  MERN  i  Use A Full Stack  Web  Html Css JS Nodejs Mongo Db Expressjs React js  you can  find out more websites 
+This is full stack employee management application. In order to make it i used react as a frontend framework and express js as backend framework and Nodejs as a backend js runtime. I create all CRUD api's to make it fully working and allow user to perform all operations.for database here i used mongoDB.
